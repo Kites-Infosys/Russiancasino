@@ -15,6 +15,13 @@ Need Min 2gb Ram Vps ubuntu 20 lts. is preffered
 11. sudo ufw allow 'Nginx Full'
 12. npm run build
 13. sudo iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-ports 7777
+
+
+
+
+
+
+
 Mongoose COnfig
 1.  mongo
 2.  show dbs
