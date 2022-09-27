@@ -1,4 +1,4 @@
-# luckcolor
+# Russian Model Color Prediction
 Need Min 2gb Ram Vps ubuntu 20 lts. is preffered
 
 
