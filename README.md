@@ -6,7 +6,7 @@ Need Min 2gb Ram Vps ubuntu 20 lts. is preffered
 2. Change logo files
 3. cd /var
 4. git clone https://github.com/Kites-Infosys/predicts.git
-5. cd luckcolor
+5. cd predicts
 6. npm install
 7. npm install pm2 -g
 8. pm2 start server.js
