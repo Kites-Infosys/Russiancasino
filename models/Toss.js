@@ -26,3 +26,4 @@ const TossSchema = new Schema({
 });
 
 module.exports = Toss = mongoose.model("toss", TossSchema);
+
